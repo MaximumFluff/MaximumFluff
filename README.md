@@ -6,15 +6,15 @@
 
 I am a Software Developer current working at eMabler, an API platform for EV chargers!
 
-Languages/Tech I use:
+I have experience in the following languages & technologies:
 
 - JavaScript
 - TypeScript
-- C#
-- Azure
 - Node.js
 - React
 - React Native
+- C#
+- Python
 
 <!---
 MaximumFluff/MaximumFluff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
