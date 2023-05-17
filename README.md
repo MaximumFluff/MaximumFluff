@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Shoot me an email!
 
-I am a Software Developer current working at eMabler, an API platform for EV chargers!
+I am a Full Stack Developer currently working at Kesko!
 
 I have experience in the following languages & technologies:
 
